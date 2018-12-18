@@ -1,0 +1,14 @@
+speeches.p
+{ session_number : 
+	{ session_id : 
+		{
+			'party' : '_'
+			'speakerID' : '_________'
+			'date' : {'year': ____, 'month': __, 'day': __}
+		}
+	}
+}
+
+bigrams___.p
+{ (token1, token2) : { speech_id1, speech_id2, speech_id3, ... }
+}
